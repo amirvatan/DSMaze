@@ -1,3 +1,3 @@
 # DSMaze
 
-Maze Project Of universit Ds
+Maze Project for DS 
